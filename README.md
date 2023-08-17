@@ -1,0 +1,2 @@
+# Maven
+to have fun
